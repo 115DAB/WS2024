@@ -1,1 +1,2 @@
-# WS2024
+# Knowledge-Base-Wiki
+Repository for students to publish and edit wiki articles
